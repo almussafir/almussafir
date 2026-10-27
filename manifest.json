@@ -26,5 +26,36 @@
     }
   ],
   "description": "A free Umrah companion: prayer times, Quran, duas, Tawaf and Sa'i counter, Qibla compass, and Makkah and Medina guides.",
-  "lang": "en"
+  "lang": "en",
+  "id": "./",
+  "categories": [
+    "lifestyle",
+    "reference"
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/1-home.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/2-quran.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/3-dhikr.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/4-places.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
 }
